@@ -1,6 +1,6 @@
 # vuejs_demo
 
-> A Vue.js project for login,token,access,crud..........
+> A Vue.js project for login,token,access,crud and so on...
 
 ## Build Setup
 
